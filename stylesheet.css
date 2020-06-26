@@ -1628,6 +1628,8 @@ float: left;
   position: fixed;
   bottom: 8%;
   left: 11%;
+  width: 500px;
+  height: 300px;
 }
 #clock {
   position: absolute;
